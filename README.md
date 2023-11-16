@@ -1,15 +1,13 @@
-#  Build An Alexa Quiz Game Skill 🇺🇸
-<img src="https://m.media-amazon.com/images/G/01/mobile-apps/dex/alexa/alexa-skills-kit/tutorials/quiz-game/header._TTH_.png" />
+#  Build An Alexa Trivia Game Skill 
+<img src="https://m.media-amazon.com/images/G/01/all/PAN-echos-in-cosmos-blue._CB572840987_.png" />
 
 This Alexa sample skill is a template for a basic quiz game skill. Provided a list of interesting facts about a topic, Alexa will quiz a user with facts from the list.
 
-You can see an example of this skill in action - just enable the [United States Quiz](https://www.amazon.com/Jeff-Blankenburg-United-States-Quiz/dp/B06X9GQBRL) from the [Alexa app](http://amazon.com/skills).
+You can see an example of this skill in action - just enable the [Spacedust Trivia](https://www.amazon.com/Jeff-Blankenburg-United-States-Quiz/dp/B06X9GQBRL) from the [Alexa app](http://amazon.com/skills).
 
 ## Skill Architecture
-Each skill consists of two basic parts, a front end and a back end.
-The front end is the voice interface, or VUI.
-The voice interface is configured through the voice interaction model.
-The back end is where the logic of your skill resides.
+Each skill consists of two basic parts, a front end and a back end. The front end is the voice interface, or VUI.
+The voice interface is configured through the voice interaction model. The back end houses the logic of your skill .
 
 ## Three Options for Skill Setup
 There are a number of different ways for you to setup your skill, depending on your experience and what tools you have available.
